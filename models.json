@@ -1,0 +1,13 @@
+[{
+    "ID": "1",
+    "Name": "Monyet",
+    "Modelnumber": "2",
+    "Filename": "monkey.stl"
+  },
+  {
+    "ID": "2",
+    "Name": "Polybarrel",
+    "Modelnumber": "1",
+    "Filename": "polybarrel.stl"
+  }
+]

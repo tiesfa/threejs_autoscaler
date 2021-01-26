@@ -1,0 +1,48 @@
+body {
+  background-color: #302F30;
+
+  font-family: 'Press Start 2P', Arial, cursive;
+}
+
+
+.container {
+  width: 1290px;
+  margin: 0 auto;
+}
+#modelGrid {
+  width: 100%;
+}
+.box {
+  display: inline-block;
+  width: 400px;
+  /* height: 400px; */
+  margin: 15px 15px 90px 15px;
+}
+
+
+h1, h2 {
+  color: #ffffff;
+  text-transform: uppercase;
+}
+p, a {
+  color: #E24D4E;
+}
+a {
+  text-decoration: none;
+}
+.text {
+  margin: 90px 15px 15px 15px;
+}
+footer {
+  margin: 15px 15px 90px 15px;
+}
+
+
+.blinkMe {
+  animation: blinker 1s linear infinite;
+}
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
